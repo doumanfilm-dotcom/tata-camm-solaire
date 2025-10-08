@@ -245,4 +245,4 @@ function saveSettings(){
 init();
 </script>
 </body>
-</html>
+</html>   
